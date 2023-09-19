@@ -1,9 +1,8 @@
 
 
-
 // {Wilmer Suelo}: {The way to get started is to quit talking and begin doing.}
 // {Carl James Tito}: {There is a time for everything}
-// {Member 3 name}: {favorite quote}
+// {Narisz Khyll B. Binalber}: {Leave the table when respect is no longer served.}
 
 import 'package:flutter/material.dart';
 
