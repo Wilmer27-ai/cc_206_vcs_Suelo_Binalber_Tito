@@ -1,3 +1,8 @@
+
+// {Wilmer Suelo}: {The way to get started is to quit talking and begin doing.}
+// {Member 2 name}: {favorite quote}
+// {Member 3 name}: {favorite quote}
+
 import 'package:flutter/material.dart';
 
 void main() {
